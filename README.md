@@ -3,5 +3,5 @@ This project in deep learning involves developing a model that can generate desc
 
 The architecture of the Deep Neural Net is as follows:
  - Deep CNN Encoder: InceptionV3
- - RNN Decoder: LSTM layers are used for decoder layers
+ - LSTM base Decoder: LSTM layers are used for decoding
  
